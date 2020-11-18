@@ -2,6 +2,6 @@ https://github.com/oreilly-japan/deep-learning-from-scratch
 
 
 
-!get clone:
+!git clone .git
 cd
 !python
